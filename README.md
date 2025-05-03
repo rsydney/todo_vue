@@ -1,3 +1,8 @@
+Ceci est une totdo liste classique avec un mode sombre et clair, a peu pres comme celui du cours,
+Lancer le projet avec la commande npm run dev
+
+
+
 # todo-list
 
 This template should help get you started developing with Vue 3 in Vite.
